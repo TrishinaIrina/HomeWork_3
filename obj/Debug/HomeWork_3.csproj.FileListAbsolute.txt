@@ -1,0 +1,7 @@
+C:\Users\irish\My documents\C#\HomeWork_3\bin\Debug\HomeWork_3.exe.config
+C:\Users\irish\My documents\C#\HomeWork_3\bin\Debug\HomeWork_3.exe
+C:\Users\irish\My documents\C#\HomeWork_3\bin\Debug\HomeWork_3.pdb
+C:\Users\irish\My documents\C#\HomeWork_3\obj\Debug\HomeWork_3.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_3\obj\Debug\HomeWork_3.exe
+C:\Users\irish\My documents\C#\HomeWork_3\obj\Debug\HomeWork_3.pdb
+C:\Users\irish\My documents\C#\HomeWork_3\obj\Debug\HomeWork_3.csprojAssemblyReference.cache
